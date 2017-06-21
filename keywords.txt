@@ -6,19 +6,19 @@
 # Class (KEYWORD1)
 #######################################
 
-HTS221	KEYWORD1
+HTS221  KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
-#######################################	
+####################################### 
 
-begin	KEYWORD2
-deviceCheck	KEYWORD2
-startup	KEYWORD2
-setResolution	KEYWORD2
-readCalibration	KEYWORD2
-readTemperature	KEYWORD2
-readHumidity	KEYWORD2
+begin   KEYWORD2
+deviceCheck KEYWORD2
+startup KEYWORD2
+setResolution   KEYWORD2
+readCalibration KEYWORD2
+readTemperature KEYWORD2
+readHumidity    KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
